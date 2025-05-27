@@ -3,7 +3,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import EmailIcon from '@material-ui/icons/Email'
 import ResumeIcon from '@material-ui/icons/Description'
 import { v4 as uuidv4 } from 'uuid'
-import Gif from '../Access/kodee-walking.gif'
+import Gif from '../Access/PenguinGIF.gif'
 import { home } from '../../portfolio'
 import './Home.css'
 
